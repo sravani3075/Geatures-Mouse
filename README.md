@@ -70,6 +70,7 @@ After downloading, keep the `hand_landmarker.task` file in the **same directory*
 ---
 
 💼 Author
+
 Sravani
 
 ---
